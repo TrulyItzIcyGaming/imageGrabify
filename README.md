@@ -31,6 +31,9 @@ Certainly! It's great that you're looking for a way to discuss these topics in a
 
 ---
 
+
+
+
 # Ethical Image Logger - Learning Security Techniques
 
 **Description**:  
