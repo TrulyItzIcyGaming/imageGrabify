@@ -27,8 +27,6 @@ By downloading, using, or distributing this tool, you acknowledge that you under
 
 Stay ethical and responsible. Cybersecurity should be used to **protect**, not exploit.
 
-Certainly! It's great that you're looking for a way to discuss these topics in a responsible manner. Here's a general approach for an ethical tool that emphasizes learning and understanding security in a positive, ethical context:
-
 ---
 
 
