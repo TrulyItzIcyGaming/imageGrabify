@@ -109,5 +109,3 @@ This tool is intended to promote ethical learning of cybersecurity techniques an
 By using tools like this in an ethical and responsible manner, you can gain valuable insights into web security, helping you understand how to protect systems and users from potential vulnerabilities. Always strive to use your knowledge for good and contribute to a safer internet for all.
 
 ---
-
-Let me know if you'd like further help or additional information!
